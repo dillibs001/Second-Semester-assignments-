@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "chifn Scarf",
+        "price": 25,
+        "size": "l"
+    },
+    {
+        "id": 2,
+        "name": "Basic T-Shirt",
+        "price": 15.5,
+        "size": "m"
+    },
+    {
+        "id": 3,
+        "name": "Small Backpack",
+        "price": 45.99,
+        "size": "s"
+    },
+    {
+        "id": 4,
+        "name": "Wool Scarf",
+        "price": 25,
+        "size": "l"
+    },
+    {
+        "name": "chiffon Scarf",
+        "price": 15,
+        "size": "m",
+        "id": 5
+    },
+    {
+        "id": 6,
+        "name": "chiffon Scarf",
+        "price": 15,
+        "size": "m"
+    },
+    {
+        "id": 7,
+        "name": "chiffon Scarf",
+        "price": 15,
+        "size": "m"
+    }
+]
